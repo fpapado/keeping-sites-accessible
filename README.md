@@ -35,6 +35,7 @@ You can get these in CI:
 - Agree that it's the focus
 - Ask questions
 - Knowing what / who to ask, is more important than how to solve it
+    - The sort of thing you could do in issues/PRs
 
 ### Descriptive Issues / PRs
 
