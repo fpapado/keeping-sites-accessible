@@ -45,7 +45,9 @@ You can get these in CI:
 ### Code Reviews
 
 - PR templates
+    - e.g. with Inclusive Design Principles, or POUR, or...
 - Walk through with someone
+    - Someone dedicated / delegated to check accessibility
 
 ## Things to watch for
 
