@@ -36,6 +36,7 @@ You can get these in CI:
 - Ask questions
 - Knowing what / who to ask, is more important than how to solve it
     - The sort of thing you could do in issues/PRs
+- Share references
 
 ### Descriptive Issues / PRs
 
