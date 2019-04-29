@@ -20,6 +20,8 @@ You can get these in CI:
 
 ...what does "in CI" mean, though?
 
+- Testing vs. Monitoring; building a backlog
+
 ## Audits
 
 - Audits are a great way to find issues, keep a holistic overview, as well as learn things
@@ -29,6 +31,7 @@ You can get these in CI:
 
 > A shared pain is half the pain, a shared joy is twice the joy
 
+- Always write things down
 - Agree that it's the focus
 - Ask questions
 - Knowing what / who to ask, is more important than how to solve it
